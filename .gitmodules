@@ -1,0 +1,3 @@
+[submodule "cucubau"]
+	path = cucubau
+	url = https://github.com/sorincarbunaru/newTest.git
