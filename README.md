@@ -2,7 +2,11 @@ s# oXyTest
 Bla bla bla2
 dasdsadsada
 
+<<<<<<< HEAD
 00000
+=======
+111
+>>>>>>> fc66f28f5c6d6ef62bf11b014eeaaf6f6ecedd96
 
 sss
 Jump to navigationJump to search
