@@ -11,7 +11,7 @@ On 18.02.2019 15:06, Florin Avram wrote:
 >
 >
 >s
-> On 18.02.2019 14:34, Florin Avram wrote:
+> On 18.02.2019 14:34, Florin Avram wrote: 111
 >> Salut,
 >>
 >> Va rog sa va asigurati ca ati comis tot ce aveti in progres, in urmatoarele 5 minute, si sa sistati orice commit pe trunk & branch-uri.
