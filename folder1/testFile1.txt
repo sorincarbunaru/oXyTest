@@ -10,7 +10,7 @@ On 18.02.2019 15:06, Florin Avram wrote:
 > A fost interzis accesul la repository-ul de SVN pana terminam pasii necesari, ca sa nu apara interferente.
 >
 >
->
+>s
 > On 18.02.2019 14:34, Florin Avram wrote:
 >> Salut,
 >>
