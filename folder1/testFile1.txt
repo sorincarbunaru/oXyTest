@@ -6,7 +6,7 @@ http://devel-new.sync.ro/svn/svnrepos/branches/BRANCH_OXYGEN_RELEASE_21_03
 Inca nu se poate comite. 1
 
 
-On 18.02.2019 15:06, Florin Avram wrote:
+On 18.02.2019 15:06, Florin Avram wrote: sasa
 > A fost interzis accesul la repository-ul de SVN pana terminam pasii necesari, ca sa nu apara interferente.
 >
 >
