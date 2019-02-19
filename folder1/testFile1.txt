@@ -3,7 +3,7 @@ Avem branch oficial pentru release oXygen & Co   21.0   (contine tot trunk-ul !)
 http://devel-new.sync.ro/svn/svnrepos/branches/BRANCH_OXYGEN_RELEASE_21_03
 
 
-Inca nu se poate comite. 1
+Inca nu se poate comite. 1s
 
 
 On 18.02.2019 15:06, Florin Avram wrote: aaa
