@@ -1,4 +1,4 @@
-Avem branch oficial pentru release oXygen & Co   21.0   (contine tot trunk-ul !).12333
+Avem branch oficial pentru release oXygen & Co   21.0   (contine tot trunk-ul !).123
 2
 http://devel-new.sync.ro/svn/svnrepos/branches/BRANCH_OXYGEN_RELEASE_21_03
 
@@ -8,7 +8,7 @@ Inca nu se poate comite. 1s
 
 On 18.02.2019 15:06, Florin Avram wrote: aaa
 > A fost interzis accesul la repository-ul de SVN pana terminam pasii necesari, ca sa nu apara interferente.
->aas
+>
 >
 >s
 > On 18.02.2019 14:34, Florin Avram wrote: 111
