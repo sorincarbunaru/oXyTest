@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 555
 =======
 777
 >>>>>>> 73d2a9b6b2f310ed5eb2fd33076d31179b191576
+=======
+777
+>>>>>>> branch 'master' of https://github.com/sorincarbunaru/oXyTest.git
 
 On 18.02.2019 15:06, Florin Avram wrote: aaa
 > A fost interzis accesul la repository-ul de SVN pana terminam pasii necesari, ca sa nu apara interferente.
