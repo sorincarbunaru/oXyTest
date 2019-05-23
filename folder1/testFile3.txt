@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 dddAvem branch oficial pentru release oXygen & Co   21.0   (contine tot trunk-ul !).
+=======
+aaaaAvem branch oficial pentru releaseddd oXygen & Co   21.0   (contine tot trunk-ul !).
+>>>>>>> branch 'master' of https://github.com/sorincarbunaru/oXyTest.git
 
 http://devel-new.sync.ro/svn/svnrepos/branches/BRANCH_OXYGEN_RELEASE_21_0
 
