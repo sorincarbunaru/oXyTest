@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-dasdasdasdasdasdasdasdasd111dasdas1sssssss
-=======
-dasdasdasdasdasdasdasdas111sfsdhhkdasd111dasdas1
->>>>>>> branch 'master' of https://github.com/sorincarbunaru/oXyTest.git
-dasdasd000000000a0000000asdasd2
-sdasdasdasaasdas
+1
+2
+3
