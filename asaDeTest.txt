@@ -1,5 +1,1 @@
-<<<<<<< Upstream, based on branch 'master' of https://github.com/sorincarbunaru/oXyTest.git
-RR
-=======
-LL
->>>>>>> 27f1b25 
+qqq
