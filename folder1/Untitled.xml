@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rootu>1
-    <el1>2
-        <el2/>
-    </el1>
-    sss
-    <el1>
-    </el1>sss
+<rootu>
+ <para>
+     <b>B</b>
+ </para>
 </rootu>
