@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_vhs_wch_xkb">
-    <title></title>
+    <title>TITLE</title>
+    <shortdesc>Short description</shortdesc>
     <body>
-        <p>
-            <table frame="all" rowsep="1" colsep="1" id="table_kj1_xch_xkb">
-                <title>Title</title>
-                <tgroup cols="2">
-                    <thead>
-                        <row>
-                            <entry>H1</entry>
-                            <entry>H2</entry>
-                        </row>
-                    </thead>
-                    <tbody>
-                        <row>
-                            <entry>E1</entry>
-                            <entry>E2</entry>
-                        </row>
-                        <row>
-                            <entry>E3</entry>
-                            <entry>E4</entry>
-                        </row>
-                        <row>
-                            <entry>E5</entry>
-                            <entry>E6</entry>
-                        </row>
-                    </tbody>
-                </tgroup>
-            </table>
-        </p>
+        <p><xref href="http://www.oxygenxml.com" format="html" scope="external"/><note>Take
+                care.</note></p>
     </body>
 </topic>
