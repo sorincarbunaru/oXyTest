@@ -7,7 +7,7 @@ dddAvem branch oficial pentru release oXygen & Co   21.0   (contine tot trunk-ul
 http://devel-new.sync.ro/svn/svnrepos/branches/BRANCH_OXYGEN_RELEASE_21_0
 
 
-Inca nu se poate comite.
+Inca nu se poated comite.
 
 
 On 18.02.2019 15:06, Florin Avram wrote:
