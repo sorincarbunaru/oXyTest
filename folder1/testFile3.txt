@@ -11,7 +11,7 @@ Inca nu se poate comite.
 
 
 On 18.02.2019 15:06, Florin Avram wrote:
-> A fost interzis accesul la repository-ul de SVN pana terminam pasii necesari, ca sa nu apara interferente.
+> A fost interzis accesul la repository-ul de SVN pandasdaa terminam pasii necesari, ca sa nu apara interferente.
 >
 >
 >
