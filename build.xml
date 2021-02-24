@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="sad1111">
+    <target name="nume1"/>
+    <target name="nume2"/>
+    <target name="nume3"/>
+    <target name="nume4"/>
+</project>

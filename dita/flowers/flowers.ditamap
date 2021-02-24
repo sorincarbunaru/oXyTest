@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-  <title>Growing Flowers</title>
+  <title>Growing Flowers11111111111</title>
   <topicref href="topics/introduction.dita">
     <topicmeta>
       <data name="wh-tile">
@@ -60,4 +60,5 @@
   <keydef href="images/Lilac.jpg" keys="sss" format="jpg"/>
   <keydef href="images/Salvia.jpg" keys="qqq" format="jpg"/>
   <keydef href="images/Snowdrop.jpg" keys="ppp" format="jpg"/>
+  <keydef href="images/Salvia.jpg" keys="aaa" format="jpg"/>
 </map>
