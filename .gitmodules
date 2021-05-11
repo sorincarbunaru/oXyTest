@@ -1,0 +1,3 @@
+[submodule "newTestulica"]
+	path = newTestulica
+	url = https://github.com/sorincarbunaru/newTestulica
