@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc-draft>
+  <title>Documentation Draft Configuration File</title>
+  <context/>
+  <instructions>
+    <draft-summary>We have a new action "Format and Indent..." in the contextual menu of the project explorer. 
+This action is similar with the Spell Check Multiple Files action.</draft-summary>
+    <image href="format_and_indent_files.png"/>
+  </instructions>
+  <relationship-context>
+    <similar-topic href="similar.dita"/>
+  </relationship-context>
+</doc-draft>
