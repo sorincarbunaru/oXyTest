@@ -9,10 +9,10 @@
             <title>Title</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Publication - Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Information about thse source</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -21,7 +21,7 @@
          <p>Some text here.<table rows="3" cols="4">
                <head>www</head>
                <row role="label">
-                  <cell>aaa</cell>
+                  <cell>aasa</cell>
                   <cell>bbb</cell>
                   <cell>www</cell>
                   <cell>bbb</cell>
