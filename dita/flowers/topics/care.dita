@@ -1,64 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="care">
-    <title>Care and Preparations</title>
-    <shortdesc>When caring for your flower garden, it is important to feed your plants properly and control pests and weeds.</shortdesc>
+    <title>Cadastre et Préparations</title>
+    <shortdesc>Lorsque vous prenez soin de votre jardin de fleurs, vous devez nourrir correctement vos plantes et contrôler les parasites et les mauvaises herbes.</shortdesc>
     <body>
-        <p>When caring for your flower garden, you should feed your plants properly and control pests and weeds. Good soil is essential for successful gardening, landscaping, and healthy flowers. You need to
-                <indexterm>tasks<indexterm>preparation</indexterm></indexterm>balance the soil
-            structure with nutrients and regulate the pH to meet your plants'
-            needs.<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="We must include information about fertilizers impact to the environment." mid="1"?>
-            Above all, remember that many flower gardens fail simply because they do not receive enough attention from the gardener.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
+        <p>Lorsque vous prenez soin de votre jardin de fleurs, vous devez nourrir correctement vos plantes et contrôler
+            les parasites et les mauvaises herbes. Un bon sol est indispensable pour un jardinage réussi, l’aménagement paysager et
+            des fleurs en bonne santé. Vous devez
+                <indexterm>tâches<indexterm>préparation</indexterm></indexterm> équilibrer la structure du sol
+            avec des nutriments et réguler le pH pour répondre aux besoins de vos plantes.
+            <?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="We must include information about fertilizers impact to the environment." mid="1"?>
+            Et surtout, souvenez-vous que de nombreux jardins de fleurs échouent simplement parce qu’ils ne reçoivent pas assez
+            de votre attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
         <p>
             <image format="zip it"></image>
             <table frame="none">
-                <title>Flowers</title>
+                <title>Fleurs</title>
                 <tgroup cols="3">
                     <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
                     <colspec colname="c2" colnum="2" colwidth="99.0pt"/>
                     <colspec colname="newCol3" colnum="3" colwidth="200px"/>
                     <thead>
                         <row>
-                            <entry>Flower</entry>
+                            <entry>Fleur</entry>
                             <entry>Type</entry>
-                            <entry>Soil</entry>
+                            <entry>Sol</entry>
                         </row>
                     </thead>
                     <tbody>
                         <row>
-                            <entry>Chrysanthemum</entry>
-                            <entry>perennial</entry>
-                            <entry>well-drained</entry>
+                            <entry>Chrysanthème</entry>
+                            <entry>vivace</entry>
+                            <entry>bien drainé</entry>
                         </row>
                         <row>
                             <entry>Gardenia</entry>
-                            <entry>perennial</entry>
-                            <entry>acidic</entry>
+                            <entry>vivace</entry>
+                            <entry>acide</entry>
                         </row>
                         <row>
                             <entry>Gerbera</entry>
-                            <entry>annual</entry>
-                            <entry>sandy, well-drained</entry>
+                            <entry>annuelle</entry>
+                            <entry>sableux, bien drainé</entry>
                         </row>
                         <row>
                             <entry>Iris</entry>
-                            <entry>perennial</entry>
-                            <entry>slightly acidic</entry>
+                            <entry>vivace</entry>
+                            <entry>légèrement acide</entry>
                         </row>
                         <row>
-                            <entry>Lilac</entry>
-                            <entry>perennial</entry>
-                            <entry>alkaline</entry>
+                            <entry>Lilas</entry>
+                            <entry>vivace</entry>
+                            <entry>alcalin</entry>
                         </row>
                         <row>
                             <entry>Salvia</entry>
-                            <entry>perennial</entry>
-                            <entry>average</entry>
+                            <entry>vivace</entry>
+                            <entry>moyen</entry>
                         </row>
                         <row>
-                            <entry>Snowdrop</entry>
-                            <entry>perennial</entry>
-                            <entry>humus-rich</entry>
+                            <entry>Perce-neige</entry>
+                            <entry>vivace</entry>
+                            <entry>riche en humus</entry>
                         </row>
                     </tbody>
                 </tgroup>
