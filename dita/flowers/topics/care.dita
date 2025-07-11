@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="care">
-    <title>Cadasdddddsddddddasdre and Prepasssssrationssssss</title>
-    <shortdesc>When carinaaag for your flower garden you want to feed yssssour plants properly,
-        control pests and weeds.change</shortdesc>
+    <title>Care and Preparations</title>
+    <shortdesc>When caring for your flower garden, it is important to feed your plants properly and control pests and weeds.</shortdesc>
     <body>
-        <p>When carinssssg dsafor your flower gardessssn you want to feesd your plants properly, control
-            pests and weeds.sss Good soil is a must to successful gardening, lasndscapinsssg, and
-            healthy flowers. You have to
+        <p>When caring for your flower garden, you should feed your plants properly and control pests and weeds. Good soil is essential for successful gardening, landscaping, and healthy flowers. You need to
                 <indexterm>tasks<indexterm>preparation</indexterm></indexterm>balance the soil
-            structure with dasdasdnudsasatrients and regulate the pH to cover your plants'
+            structure with nutrients and regulate the pH to meet your plants'
             needs.<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="We must include information about fertilizers impact to the environment." mid="1"?>
-            And above all, remember that many flower gardens fail because they just don't get enough
-            of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
+            Above all, remember that many flower gardens fail simply because they do not receive enough attention from the gardener.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
         <p>
             <image format="zip it"></image>
             <table frame="none">
@@ -23,7 +19,7 @@
                     <colspec colname="newCol3" colnum="3" colwidth="200px"/>
                     <thead>
                         <row>
-                            <entry>Floswer</entry>
+                            <entry>Flower</entry>
                             <entry>Type</entry>
                             <entry>Soil</entry>
                         </row>
@@ -32,7 +28,7 @@
                         <row>
                             <entry>Chrysanthemum</entry>
                             <entry>perennial</entry>
-                            <entry>well drained</entry>
+                            <entry>well-drained</entry>
                         </row>
                         <row>
                             <entry>Gardenia</entry>
@@ -41,7 +37,7 @@
                         </row>
                         <row>
                             <entry>Gerbera</entry>
-                            <entry>annulal</entry>
+                            <entry>annual</entry>
                             <entry>sandy, well-drained</entry>
                         </row>
                         <row>
