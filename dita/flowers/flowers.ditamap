@@ -21,6 +21,7 @@
     <topicref href="concepts/summerFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/gardenia.dita"/>
       <topicref href="topics/flowers/lilac.dita"/>
+      <topicref href="topics/flowers/rose.dita"/>
     </topicref>
     <topicref href="concepts/autumnFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/chrysanthemum.dita"/>
