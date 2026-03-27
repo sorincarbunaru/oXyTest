@@ -31,6 +31,7 @@
     <topicref href="concepts/winterFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/gerbera.dita"/>
     </topicref>
+    <topicref href="topics/copyright.dita"/>
   </topicref>
   <topicref href="topics/copyright.dita">
     <topicmeta>
