@@ -15,12 +15,14 @@
   </topicref>
   <topicref href="topics/index.dita" collection-type="sequence">
     <topicref href="concepts/springFlowers.dita" collection-type="sequence">
+      <topicref href="topics/flowers/hyacinth.dita"/>
       <topicref href="topics/flowers/iris.dita"/>
       <topicref href="topics/flowers/snowdrop.dita"/>
     </topicref>
     <topicref href="concepts/summerFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/gardenia.dita"/>
       <topicref href="topics/flowers/lilac.dita"/>
+      <topicref href="topics/flowers/rose.dita"/>
     </topicref>
     <topicref href="concepts/autumnFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/chrysanthemum.dita"/>
@@ -29,6 +31,7 @@
     <topicref href="concepts/winterFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/gerbera.dita"/>
     </topicref>
+    <topicref href="topics/copyright.dita"/>
   </topicref>
   <topicref href="topics/copyright.dita">
     <topicmeta>
